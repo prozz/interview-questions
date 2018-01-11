@@ -1,6 +1,6 @@
 # Interview questions
 
-I was asked all of those questions in late 2017 while trying to get job as a java developer.
+I was asked all of those questions in late 2017 while trying to get job as a Java developer.
 
 - SOLID principles
 - what's the output?
